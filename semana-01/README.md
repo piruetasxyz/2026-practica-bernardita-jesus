@@ -6,6 +6,7 @@
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-07-20 | Lunes    | git, github cli, planificación, referentes           | Rep180    | 004 / 004               |
 | 2026-07-21 | Martes   | git, markdown, visual studio code, C++               | Casa      | 007 / 011               |
+| 2026-07-22 | Miercoles | git, referentes                                     | Casa      | 002 / 013               |
 
 ### Copia del repositorio
 
@@ -13,7 +14,7 @@ Hice una copia del repositorio de la práctica en mi computador desde la termina
 
 Voy a hacer una distinción; hay dos versiones de este repositorio. Una es el **repositorio remoto**, que está alojado en GitHub, y la otra es la **copia local** que se encuentra en mi computador.
 
-Por el momento, lo que tengo que hacer es abrir la terminal y encontrar mi repositorio.git
+Por el momento, lo que tengo que hacer es abrir la terminal y encontrar mi repositorio.
 
 Con **cd** busco este espacio y puedo simplemente escribir github, luego 2026 y presionar la tecla **Tab** para que autocomplete la búsqueda, ya que realmente no tengo ningún otro repositorio copiado. Por eso, me redirige automáticamente a la única opción disponible.
 
@@ -127,32 +128,39 @@ La imaginé como la distorsión del sonido, el sonido rebotando, pero por supues
 
 Realmente la resonancia es un fenómeno acústico. Cuando un elemento es afectado por una frecuencia, este comienza a vibrar, lo cual genera un efecto de amplificación.
 
-<https://www.tabakalera.eus/es/alvin-lucier/>
+https://www.tabakalera.eus/es/alvin-lucier/
 
-<https://www.moma.org/explore/inside_out/2015/01/20/collecting-alvin-luciers-i-am-sitting-in-a-room/>
+https://www.moma.org/explore/inside_out/2015/01/20/collecting-alvin-luciers-i-am-sitting-in-a-room/
 
-<https://umma.umich.edu/exhibitions/alvin-lucier-i-am-sitting-in-a-room/>
+https://umma.umich.edu/exhibitions/alvin-lucier-i-am-sitting-in-a-room/
 
-<https://iberacustica.cl/blog/resonancia-acustica-como-el-sonido-puede-hacer-vibrar-y-romper-objetos/>
+https://iberacustica.cl/blog/resonancia-acustica-como-el-sonido-puede-hacer-vibrar-y-romper-objetos/
+
+#### Steve Reich
+
+Álbum drumming (4 canciones - 56 min)
+
+Steve Reich, uno de los principales referentes de la música minimalista, compone esta obra de percusión dividida en cuatro partes. Cada una incorpora un instrumento distinto que va variando a lo largo de la pieza, acompañado por voces que imitan estos sonidos instrumentales. La obra está inspirada en la cultura africana; cada parte explora diferentes instrumentos y la cuarta reúne todos ellos. Se construye a partir de un patrón rítmico básico que se repite constantemente, mientras las escalas y las armonías van cambiando de forma progresiva.
+
+Al igual que el minimalismo en otras disciplinas, su música busca reducir los elementos a lo mínimo. Steve Reich explora esta reducción mediante variaciones que transforman gradualmente la percepción de la estructura.
+
+Me gustó que en obras como Phase Patterns cuestione el uso tradicional de los instrumentos. Me parece interesante esta idea de deconstruir la función para la que fueron creados y explorar nuevas posibilidades sonoras a partir de ellos.
+
+https://stevereich.com/
+
+https://www.drummingat50.com/
+
+https://www.allclassical.org/the-story-of-minimalism-part-one-a-new-way-of-listening/
+
+#### Referentes de diseño paramétrico
+
+- Tommy.sh
+- Oskitone
+- benjiaomodular
 
 ## Pendientes
 
-escuchar y leer sobre drumming de steve reich
-
 Robert Ashley, Robert Wilson, David Behrman y Gordon Mumma. (por mi)
-
-Referentes de diseño paramétrico.
-
-OpenSCAD: diferencia con Rhino y justificación de lo paramétrico.
-
-Investigar los materiales, sus propiedades y su viabilidad.
-
-Definir si se utilizará PLA o CNC.
-
-Revisar qué parámetros pueden y deben ser editables.
-
-Realizar un registro fotográfico.
 
 Investigar Parla y Relo.
 
-El primer sintetizador que voy a investigar será **Relo**.

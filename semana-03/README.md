@@ -5,8 +5,8 @@
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
 | 2026-08-03 | Lunes    | planificación, carcasa, Eurorack                     | LID       | 007 / 007               |
-| 2026-08-04 | Martes   | planificación, lectura tesis                         | LID       | 006 / 014               |
-| 2026-08-06 | Jueves   | git, OpenScad, impresión 3d                          | Casa      | 008 / 022               |
+| 2026-08-04 | Martes   | planificación, lectura tesis                         | LID       | 006 / 013               |
+| 2026-08-06 | Jueves   | git, OpenScad, impresión 3d                          | Casa      | 008 / 021               |
 
 [Canción Cajas y Paneles](https://open.spotify.com/track/2u25nSWGGJX8sIOAHxgFvD)
 

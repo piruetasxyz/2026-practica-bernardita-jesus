@@ -62,3 +62,7 @@ Links de brocas corona:
 - Sodimac: https://www.sodimac.cl/sodimac-cl/b/broca-copa
 
 - Sierras copa bimetálicas de Bosch: https://www.bosch-professional.com/pa/es/sierras-copa-bim-ecoline-m3-para-adaptadores-estandar-2868316-ocs-ac/
+
+En la siguiente captura se puede ver la **distribución final** de las perforaciones en la caja de aluminio, en la versión **v0.0.4**: el XLR en uno de los extremos, con sus dos tornillos M3 en diagonal; el jack en la parte de abajo; y las dos perforaciones de los tornillos de la PCB.
+
+![captura](./imagenes/captura-23.png)

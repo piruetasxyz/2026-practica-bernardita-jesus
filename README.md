@@ -22,9 +22,9 @@ Desarrollo de carcasas para sintetizadores modulares en formato Eurorack, modela
 | [11](./semana-11/) | 10-05 lun  | OpenSCAD, Investigación de materiales        | 021 / 221              |
 | [12](./semana-12/) | 10-12 lun  | Registro fotográfico, OpenSCAD, Plantillas de perforación | 013 / 234              |
 | [13](./semana-13/) | 10-19 lun  | Fabricación, Modelado 3D, OpenSCAD, Fabricación digital | 020 / 254              |
-| [14](./semana-14/) | 10-26 lun  |                                              | 000 / 000              |
+| [14](./semana-14/) | 10-26 lun  | Ensayo evento surrealistas, Modelado 3D, OpenSCAD, Paneles, Tocata | 014 / 268 |
 | [15](./semana-15/) | 11-02 lun  |                                              | 000 / 000              |
 | [16](./semana-16/) | 11-09 lun  |                                              | 000 / 000              |
 | [17](./semana-17/) | 11-16 lun  |                                              | 000 / 000              |
 | [18](./semana-18/) | 11-23 lun  |                                              | 000 / 000              |
-| **Total**          |            |                                              | **254**                |
+| **Total**          |            |                                              | **268**                |

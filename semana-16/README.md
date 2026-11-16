@@ -36,3 +36,8 @@ También aprendí a trabajar con clientes y a traducir sus ideas en propuestas c
 Reconocí la importancia del lenguaje dentro del diseño. Nombrar las cosas, buscar las palabras precisas e incluso crear otras nuevas es parte del trabajo, ya que nos permite comunicar y desarrollar un proyecto en distintos contextos, con personas que se dedican a la síntesis, con académicos o con quienes simplemente sienten curiosidad por el ruido.
 
 En esa misma línea, tomé conciencia de la necesidad urgente de construir una bibliografía que permita respaldar nuestras decisiones, dar sustento a lo que hacemos y situar el proyecto dentro de una conversación más amplia.
+
+Me gusta pensar en mi paso por esta práctica como una metamorfosis. Creo que este semestre fue crucial en mi vida profesional, ya que pude crecer sin miedo, reconocer nuevos caminos por los que podría desarrollarme y desenvolverme, y descubrir otras formas de ejercer la interdisciplinariedad que tanto buscamos.
+
+Nuevamente, rescato la importancia de trabajar en comunidad, en pequeños grupos de profesionales. Entiendo a un profesional como alguien que dedica su tiempo a desarrollarse integralmente, a compartir sus conocimientos y a ponerlos en práctica junto a otras personas. Incluso entre amigues, creo que estas instancias de colaboración son indispensables. Qué lindo es tener esa certeza.
+

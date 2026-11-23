@@ -62,3 +62,17 @@ En la siguiente captura se puede ver un render de la prueba de pared: el tramo d
 ![captura](./imagenes/captura-26.png)
 
 En el código, el perfil del agujero quedó en un **módulo** aparte, **bote_agujero_bus_perfil()**, que usan tanto la caja como la prueba, así las dos siempre tienen el mismo agujero.
+
+## Fabricación bote
+
+El lunes, junto a [Aarón](https://github.com/montoyamoraga), compramos tres filamentos de **PLA** de color **amarillo**, **naranja** y **verde**, para comenzar a producir las **carcasas finales** para la tesis de diciembre. La idea es que cada comisión tenga su propio bote para poder probarlo, así que fabricaremos unos **cinco botes**. Además, me quedaré con uno para probarlo yo misma y generar contenido y material de registro.
+
+El martes fui a retirar los filamentos y comencé a imprimir.
+
+Durante la semana alcancé a imprimir:
+
+- **Un bote con la perforación en elipse:** La versión anterior del agujero del bus de poder.
+
+- **Una prueba de pared:** Con la nueva perforación en forma de trapecio, para revisar cómo se imprime.
+
+- **Un bote con la nueva perforación:** La versión final, con los agujeros en forma de trapecio.

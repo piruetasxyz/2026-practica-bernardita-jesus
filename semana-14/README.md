@@ -4,12 +4,9 @@
 
 | Fecha      | Día      | Temas                                                | Lugar     | Horas día / hora semana |
 | :--------- | :------- | :--------------------------------------------------- | :-------- | :---------------------- |
-| 2026-10-26 | Lunes    |                                                      |           | 000 / 000               |
 | 2026-10-27 | Martes   | Ensayo evento surrealistas                           | Estudio   | 005 / 005               |
 | 2026-10-29 | Jueves   | Modelado 3D, OpenSCAD, Paneles                       | Casa      | 003 / 008               |
 | 2026-10-30 | Viernes  | Tocata                                               | GAM       | 008 / 016               |
-| 2026-10-31 | Sábado   |                                                      |           | 000 / 000               |
-| 2026-11-01 | Domingo  |                                                      |           | 000 / 000               |
 
 ## Ensayo evento surrealistas
 
